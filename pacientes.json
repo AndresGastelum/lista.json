@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Andrés",
+    "peso": 74,
+    "altura": 1.80,
+    "gordura": 10,
+    "imc": 20.54
+  },
+  {
+    "nombre": "Jorge",
+    "peso": 95,
+    "altura": 1.75,
+    "gordura": 17,
+    "imc": 52.73
+  },
+  {
+    "nombre": "Cesar",
+    "peso": 83,
+    "altura": 1.78,
+    "gordura": 14,
+    "imc": 23.92
+  }
+]
